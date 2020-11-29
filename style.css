@@ -149,3 +149,10 @@ font-family: "Gill Sans", sans-serif;;
             height: 70px; 
               
 }
+.blogimg{
+    padding-top: 4rem;
+   display: block;
+   width: 100%;
+   max-width: 350px;
+   margin: auto;
+}
