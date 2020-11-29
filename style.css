@@ -14,7 +14,7 @@
     border-bottom-right-radius: 10px;
     display: block;
     background-color: dimgray;
-    padding-left: 50%;
+   
     padding-top: 1rem;
 }
 .topnav a{
@@ -32,6 +32,13 @@
 .header{
     padding:2rem;
     
+}
+.aboutimg{
+    padding-top: 4rem;
+   display: block;
+   width: 100%;
+   max-width: 350px;
+   margin: auto;
 }
 .hero .hero-image{
     padding-top: 4rem;
