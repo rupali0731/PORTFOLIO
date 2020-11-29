@@ -1,0 +1,145 @@
+:root{ --primary-color : #FCA5A5;
+    
+      
+       --background-color:white;
+
+}
+
+
+
+.topnav{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: block;
+    background-color: dimgray;
+    padding-left: 50%;
+    padding-top: 1rem;
+}
+.topnav a{
+    
+    padding-left: 1.5rem;
+    color:white;
+    text-decoration: none;
+    font-size: 2rem;
+    padding-bottom: 0rem;
+    
+    background-color: dimgray;
+}
+.topnav .active{
+    color:var(--primary-color);}
+.header{
+    padding:2rem;
+    
+}
+.hero .hero-image{
+    padding-top: 4rem;
+   display: block;
+   width: 100%;
+   max-width: 350px;
+   margin: auto;
+   
+
+    
+}   
+.hero .hero-text{
+    font-family: "Gill Sans", sans-serif;;
+    font-size: 2 rem;
+    text-align : center;
+    padding-top: 1rem;
+    color: dimgray;
+
+}
+.abouttext{
+    font-family: "Gill Sans", sans-serif;;
+    font-size: 3.5 rem;
+    text-align : center;
+    padding-top: 1rem;
+    color: dimgray;
+    background-color:white; display: block;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+}
+ .skills{
+     list-style: none;
+ }
+ .skills .li1{
+     padding-top:1rem;
+ }
+ .skills .li2{
+    padding-top:1rem;
+}
+.skills .li3{
+    padding-top:1rem;
+}
+.skills .li4{
+    padding-top:1rem;
+    display:block;
+}
+.workh1{
+font-family: "Gill Sans", sans-serif;;
+    font-size: 2 rem;
+    text-align : center;
+    padding-top: 1rem;
+    color: dimgray;
+}
+.p1{
+    
+    background-color: dimgray;
+    text-decoration: none;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+
+}
+.p2{
+    background-color: dimgray;
+    text-decoration: none;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+.g1{
+    background-color: dimgray;
+    text-decoration: none;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+.g2{
+        background-color: dimgray;
+        text-decoration: none;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        padding-right: 1rem;
+        padding-left: 1rem;
+}
+.footer{
+            
+            
+           
+            background-color: dimgray;
+           text-align: center;
+            
+           
+            bottom: 0; 
+            width: 100%;
+            position: fixed; 
+            padding: 10px 10px 0px 10px; 
+            bottom: 0; 
+            width: 100%; 
+            border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+     
+            height: 70px; 
+              
+}
