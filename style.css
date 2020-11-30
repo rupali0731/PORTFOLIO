@@ -156,3 +156,56 @@ font-family: "Gill Sans", sans-serif;;
    max-width: 350px;
    margin: auto;
 }
+.project-section{
+   background-color:  dimgrey;
+   color: white;
+   border-radius: 1rem 1rem 1rem 1rem;
+   max-width: 100%;
+   font-family: "Gill Sans", sans-serif;;
+    font-size: 3.5 rem;
+    text-align : center;
+    padding-top: 1rem;
+     display: block;
+    
+}
+.blogsection{
+    background-color:  white;
+    color: dimgrey;
+    border-radius: 1rem 1rem 1rem 1rem;
+    max-width: 100%;
+    font-family: "Gill Sans", sans-serif;;
+     font-size: 3.5 rem;
+     text-align : center;
+     padding-top: 1rem;
+      display: block;}
+      .contactsection{background-color:  dimgrey;
+        color: white;
+        border-radius: 1rem 1rem 1rem 1rem;
+        max-width: 100%;
+        font-family: "Gill Sans", sans-serif;;
+         font-size: 3.5 rem;
+         text-align : center;
+         padding-top: 1rem;
+          display: block;
+         
+
+      }
+.project-section .projectimg{
+    display: block;
+   width: 100%;
+   max-width: 350px;
+   margin: auto;
+}
+.blogsection .blogimg{
+    display: block;
+   width: 100%;
+   max-width: 350px;
+   margin: auto;
+
+}
+.contactsection .contactimg{
+    display: block;
+   width: 100%;
+   max-width: 350px;
+   margin: auto;
+}
